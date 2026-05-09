@@ -1,6 +1,6 @@
 const $ = (s)=>document.querySelector(s);
 const characters = [
-  {name:'Shadow', title:'暗影支配者', power:9999, line:'我即是暗影。'},
+  {name:'Shadow', title:'暗影支配者الظل', power:9999, line:'我即是暗影。'},
   {name:'Alpha', title:'七影首席', power:9200, line:'优雅且致命。'},
   {name:'Beta', title:'情报书记官', power:8500, line:'记录一切真相。'},
   {name:'Delta', title:'狂战猎犬', power:8100, line:'用本能撕裂敌人。'},
